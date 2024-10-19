@@ -1,9 +1,9 @@
 # Graphics library setup 
 
-more detail setup can be found on the main repo [solution-to-graphics.h](https://github.com/kumarbaberval/Solution-to-graphics.h)
+This is not my own sol. The main repo [solution-to-graphics.h](https://github.com/kumarbaberval/Solution-to-graphics.h)
 ## Quick setup
 
-Setup `TDM-GCC-32`
+Install `TDM-GCC-32` from [here](https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm-1/tdm-gcc-10.3.0.exe)
 |![step1](./step1.png)|![step1](./step2.png)|
 |--|--|
 
